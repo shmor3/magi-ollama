@@ -1,1 +1,0 @@
-{"rustc":4758242423518056681,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[12347024475581975995,"build_script_build",false,13717471036644048124]],"local":[{"RerunIfChanged":{"output":"wasm32-wasip1/release/build/zmij-a9943920f03e2685/output","paths":["build.rs"]}}],"rustflags":[],"config":0,"compile_kind":0}
